@@ -76,3 +76,8 @@ export default () => (
 ```
 
 </details>
+
+
+## Image credits for 
+
+https://pixabay.com/illustrations/starwars-star-wars-stormtrooper-2048262/
