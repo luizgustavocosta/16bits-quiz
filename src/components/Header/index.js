@@ -26,13 +26,12 @@ const HeaderWrapper = styled.header`
 
 export default function Header() {
   return (
-    // eslint-disable-next-line react/jsx-props-no-spreading
     <HeaderWrapper>
-        <title>The Rock (1996)</title>
+        <title>Quiz</title>
         <meta property="og:title" content="Imersão Alura" />
-        {/* <meta property="og:type" content="video.movie" /> */}
         <meta property="og:url" content="https://cdn.pixabay.com/photo/2017/02/08/09/44/starwars-2048262_1280.jpg" />
         <meta property="og:image" content="https://cdn.pixabay.com/photo/2017/02/08/09/44/starwars-2048262_1280.jpg" />
     </HeaderWrapper>
   );
 }
+      
