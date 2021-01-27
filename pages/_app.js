@@ -35,7 +35,11 @@ export default function App({ Component, pageProps }) {
     <>
       <Head>
         <link rel="preconnect" href="https://fonts.gstatic.com" />
-        <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet" />
+        <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet" />        
+        <title>Star Wars .: Quiz :.</title>
+        <meta property="og:title" content="Imersão Alura" />
+        <meta property="og:url" content="https://cdn.pixabay.com/photo/2017/02/08/09/44/starwars-2048262_1280.jpg" />
+        <meta property="og:image" content="https://cdn.pixabay.com/photo/2017/02/08/09/44/starwars-2048262_1280.jpg" />
       </Head>
       <ThemeProvider theme={theme}>
         <GlobalStyle />
