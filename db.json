@@ -4,7 +4,7 @@
   "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
   "questions": [
     {
-      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
+      "image": "/gifs/babyYodaRobot.gif",
       "title": "Como fazer um seletor por id via CSS?",
       "description": "Essa é pra aquecer",
       "answer": 2,
@@ -16,7 +16,123 @@
       ]
     },
     {
-      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+      "image": "/gifs/boba_fett.gif",
+      "title": "Como fazer um background gradiente com css?",
+      "description": "Faz tempo em haha",
+      "answer": 0,
+      "alternatives": [
+         "background: linear-gradient(#e66465, #9198e5);",
+         "background: gradient(#e66465, #9198e5);"
+      ]
+    },
+    {
+      "image": "/gifs/boka.gif",
+      "title": "Como fazer um background gradiente com css?",
+      "description": "Faz tempo em haha",
+      "answer": 0,
+      "alternatives": [
+         "background: linear-gradient(#e66465, #9198e5);",
+         "background: gradient(#e66465, #9198e5);"
+      ]
+    },
+    {
+      "image": "/gifs/contact_jedi.gif",
+      "title": "Como fazer um background gradiente com css?",
+      "description": "Faz tempo em haha",
+      "answer": 0,
+      "alternatives": [
+         "background: linear-gradient(#e66465, #9198e5);",
+         "background: gradient(#e66465, #9198e5);"
+      ]
+    },
+    {
+      "image": "/gifs/croque.gif",
+      "title": "Como fazer um background gradiente com css?",
+      "description": "Faz tempo em haha",
+      "answer": 0,
+      "alternatives": [
+         "background: linear-gradient(#e66465, #9198e5);",
+         "background: gradient(#e66465, #9198e5);"
+      ]
+    }
+    ,
+    {
+      "image": "/gifs/dancing_ship.gif",
+      "title": "Como fazer um background gradiente com css?",
+      "description": "Faz tempo em haha",
+      "answer": 0,
+      "alternatives": [
+         "background: linear-gradient(#e66465, #9198e5);",
+         "background: gradient(#e66465, #9198e5);"
+      ]
+    }
+    ,
+    {
+      "image": "/gifs/eating-eggs.gif",
+      "title": "Como fazer um background gradiente com css?",
+      "description": "Faz tempo em haha",
+      "answer": 0,
+      "alternatives": [
+         "background: linear-gradient(#e66465, #9198e5);",
+         "background: gradient(#e66465, #9198e5);"
+      ]
+    },
+    {
+      "image": "/gifs/farewell.gif",
+      "title": "Como fazer um background gradiente com css?",
+      "description": "Faz tempo em haha",
+      "answer": 0,
+      "alternatives": [
+         "background: linear-gradient(#e66465, #9198e5);",
+         "background: gradient(#e66465, #9198e5);"
+      ]
+    }
+    ,
+    {
+      "image": "/gifs/grogu_neve.gif",
+      "title": "Como fazer um background gradiente com css?",
+      "description": "Faz tempo em haha",
+      "answer": 0,
+      "alternatives": [
+         "background: linear-gradient(#e66465, #9198e5);",
+         "background: gradient(#e66465, #9198e5);"
+      ]
+    }
+    ,
+    {
+      "image": "/gifs/Gus_fringe.gif",
+      "title": "Como fazer um background gradiente com css?",
+      "description": "Faz tempo em haha",
+      "answer": 0,
+      "alternatives": [
+         "background: linear-gradient(#e66465, #9198e5);",
+         "background: gradient(#e66465, #9198e5);"
+      ]
+    },
+    {
+      "image": "/gifs/Jedu.gif",
+      "title": "Como fazer um background gradiente com css?",
+      "description": "Faz tempo em haha",
+      "answer": 0,
+      "alternatives": [
+         "background: linear-gradient(#e66465, #9198e5);",
+         "background: gradient(#e66465, #9198e5);"
+      ]
+    }
+    ,
+    {
+      "image": "/gifs/Luke.gif",
+      "title": "Como fazer um background gradiente com css?",
+      "description": "Faz tempo em haha",
+      "answer": 0,
+      "alternatives": [
+         "background: linear-gradient(#e66465, #9198e5);",
+         "background: gradient(#e66465, #9198e5);"
+      ]
+    }
+    ,
+    {
+      "image": "/gifs/Robot.gif",
       "title": "Como fazer um background gradiente com css?",
       "description": "Faz tempo em haha",
       "answer": 0,
