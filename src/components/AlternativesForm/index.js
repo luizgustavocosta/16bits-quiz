@@ -1,4 +1,5 @@
 import styled from 'styled-components';
+// syled component only
 
 const AlternativesForm = styled.form`
   label {

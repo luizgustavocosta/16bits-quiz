@@ -1,14 +1,15 @@
 /* eslint-disable react/react-in-jsx-scope */
 import React from 'react';
 import styled from 'styled-components';
-import db from '../db.json';
-import Widget from '../src/components/Widget';
-import QuizBackground from '../src/components/QuizBackground';
-import GitHubCorner from '../src/components/GitHubCorner';
-import Footer from '../src/components/Footer';
 import { Router, useRouter } from 'next/router';
-import Input from '../src/components/Input';
+
+import db from '../db.json';
 import Button from '../src/components/Button';
+import Footer from '../src/components/Footer';
+import GitHubCorner from '../src/components/GitHubCorner';
+import Input from '../src/components/Input';
+import QuizBackground from '../src/components/QuizBackground';
+import Widget from '../src/components/Widget';
 
 
 export const QuizContainer = styled.div`
@@ -38,14 +39,13 @@ export default function Home() {
             <form onSubmit={function (event) {
               event.preventDefault();
               router.push(`quiz?name=${name}`);
-              
             }}>
               <Input
                 name="userName"
                 onChange={(currentEvent) => {
                     setName(currentEvent.target.value);
                 }}
-                placeholder="Digite o seu nome"
+                placeholder="Type your name"
                 value={name}
               />
               <Button type="submit" disabled={name.length === 0}>

@@ -33,6 +33,21 @@ Widget.Header = styled.header`
   }
 `;
 
+Widget.Spinner = styled.div`
+  padding: 24px 32px 32px 32px;
+  align-items: center;
+  & > *:first-child {
+    margin-top: 0;
+  }
+  & > *:last-child {
+    margin-bottom: 0;
+  }
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+`;
+
 Widget.Content = styled.div`
   padding: 24px 32px 32px 32px;
   & > *:first-child {

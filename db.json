@@ -1,144 +1,59 @@
 {
-  "bg": "/background.jpg",
+  "bg": "https://cdn.pixabay.com/photo/2017/02/08/09/44/starwars-2048262_1280.jpg",
   "title": "Quiz CSS da Alura",
   "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
   "questions": [
     {
-      "image": "/gifs/babyYodaRobot.gif",
-      "title": "Como fazer um seletor por id via CSS?",
-      "description": "Essa é pra aquecer",
-      "answer": 2,
+      "image": "https://media.giphy.com/media/rgHhWRnQAeAbCENCAF/giphy.gif",
+      "title": "What is Grogu eating?",
+      "description": "Very famous in France and Italy",
+      "answer": 0,
       "alternatives": [
-        ".elemento",
-        "*elemento",
-        "#elemento",
-        "%elemento"
+        "Macaron",
+        "Pasta",
+        "Coxinha",
+        "Pão de Queijo"
       ]
     },
     {
-      "image": "/gifs/boba_fett.gif",
-      "title": "Como fazer um background gradiente com css?",
-      "description": "Faz tempo em haha",
-      "answer": 0,
+      "image": "https://media.giphy.com/media/lRcyrw5p05dcjpNDOI/giphy.gif",
+      "title": "What is the mandalorian's motto?",
+      "description": "Mostly of languages has this word",
+      "answer": 3,
       "alternatives": [
-         "background: linear-gradient(#e66465, #9198e5);",
-         "background: gradient(#e66465, #9198e5);"
-      ]
-    },
-    {
-      "image": "/gifs/boka.gif",
-      "title": "Como fazer um background gradiente com css?",
-      "description": "Faz tempo em haha",
-      "answer": 0,
-      "alternatives": [
-         "background: linear-gradient(#e66465, #9198e5);",
-         "background: gradient(#e66465, #9198e5);"
-      ]
-    },
-    {
-      "image": "/gifs/contact_jedi.gif",
-      "title": "Como fazer um background gradiente com css?",
-      "description": "Faz tempo em haha",
-      "answer": 0,
-      "alternatives": [
-         "background: linear-gradient(#e66465, #9198e5);",
-         "background: gradient(#e66465, #9198e5);"
-      ]
-    },
-    {
-      "image": "/gifs/croque.gif",
-      "title": "Como fazer um background gradiente com css?",
-      "description": "Faz tempo em haha",
-      "answer": 0,
-      "alternatives": [
-         "background: linear-gradient(#e66465, #9198e5);",
-         "background: gradient(#e66465, #9198e5);"
+         "Super",
+         "Let's do this!",
+         "Say what??",
+         "This is the way",
+         "Wrong way"
       ]
     }
     ,
     {
-      "image": "/gifs/dancing_ship.gif",
-      "title": "Como fazer um background gradiente com css?",
-      "description": "Faz tempo em haha",
-      "answer": 0,
+      "image": "https://media.giphy.com/media/4OWoiLFuVkaw76Intv/giphy.gif",
+      "title": "Who will win this race?",
+      "description": "There is one real Mandalorian and one fake",
+      "answer": 1,
       "alternatives": [
-         "background: linear-gradient(#e66465, #9198e5);",
-         "background: gradient(#e66465, #9198e5);"
+         "Pedro Pascal",
+         "No one",
+         "Peter Delphi",
+         "Boba Fett",
+         "Mando"
       ]
     }
     ,
     {
-      "image": "/gifs/eating-eggs.gif",
-      "title": "Como fazer um background gradiente com css?",
-      "description": "Faz tempo em haha",
-      "answer": 0,
+      "image": "https://media.giphy.com/media/nopqz91prOyvS/giphy.gif",
+      "title": "In which episode was this scene shown?",
+      "description": "A long time ago in a theater so far away",
+      "answer": 3,
       "alternatives": [
-         "background: linear-gradient(#e66465, #9198e5);",
-         "background: gradient(#e66465, #9198e5);"
-      ]
-    },
-    {
-      "image": "/gifs/farewell.gif",
-      "title": "Como fazer um background gradiente com css?",
-      "description": "Faz tempo em haha",
-      "answer": 0,
-      "alternatives": [
-         "background: linear-gradient(#e66465, #9198e5);",
-         "background: gradient(#e66465, #9198e5);"
-      ]
-    }
-    ,
-    {
-      "image": "/gifs/grogu_neve.gif",
-      "title": "Como fazer um background gradiente com css?",
-      "description": "Faz tempo em haha",
-      "answer": 0,
-      "alternatives": [
-         "background: linear-gradient(#e66465, #9198e5);",
-         "background: gradient(#e66465, #9198e5);"
-      ]
-    }
-    ,
-    {
-      "image": "/gifs/Gus_fringe.gif",
-      "title": "Como fazer um background gradiente com css?",
-      "description": "Faz tempo em haha",
-      "answer": 0,
-      "alternatives": [
-         "background: linear-gradient(#e66465, #9198e5);",
-         "background: gradient(#e66465, #9198e5);"
-      ]
-    },
-    {
-      "image": "/gifs/Jedu.gif",
-      "title": "Como fazer um background gradiente com css?",
-      "description": "Faz tempo em haha",
-      "answer": 0,
-      "alternatives": [
-         "background: linear-gradient(#e66465, #9198e5);",
-         "background: gradient(#e66465, #9198e5);"
-      ]
-    }
-    ,
-    {
-      "image": "/gifs/Luke.gif",
-      "title": "Como fazer um background gradiente com css?",
-      "description": "Faz tempo em haha",
-      "answer": 0,
-      "alternatives": [
-         "background: linear-gradient(#e66465, #9198e5);",
-         "background: gradient(#e66465, #9198e5);"
-      ]
-    }
-    ,
-    {
-      "image": "/gifs/Robot.gif",
-      "title": "Como fazer um background gradiente com css?",
-      "description": "Faz tempo em haha",
-      "answer": 0,
-      "alternatives": [
-         "background: linear-gradient(#e66465, #9198e5);",
-         "background: gradient(#e66465, #9198e5);"
+         "Star Wars: The Panthom Menace",
+         "Star Wars: Attack of the Clones",
+         "Star Wars: Revenge of the Sith",
+         "Star Wars: A New Hope",
+         "Futurama"
       ]
     }
   ],
