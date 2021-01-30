@@ -1,7 +1,7 @@
 {
   "bg": "https://cdn.pixabay.com/photo/2017/02/08/09/44/starwars-2048262_1280.jpg",
-  "title": "Quiz CSS da Alura",
-  "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
+  "title": "Star Wars Saga",
+  "description": "May be force by with you",
   "questions": [
     {
       "image": "https://media.giphy.com/media/rgHhWRnQAeAbCENCAF/giphy.gif",
@@ -36,7 +36,7 @@
       "answer": 1,
       "alternatives": [
          "Pedro Pascal",
-         "No one",
+         "Is not a race",
          "Peter Delphi",
          "Boba Fett",
          "Mando"
@@ -58,7 +58,10 @@
     }
   ],
   "external": [
-    ""
+    "https://aluraquiz-marvel.omariosouto.vercel.app/",
+    "https://wanda-vision-aluraquiz.marilira.vercel.app/",
+    "https://1sec-quiz.victoroda.vercel.app/",
+    "https://quiz-games.gabrielwolf-dev.vercel.app/"
   ],
   "theme": {
     "colors": {
