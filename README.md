@@ -5,7 +5,7 @@ Star Wars saga quiz based on "Imersão Alura"
 Learn about Next.js, React and JavaScript.
 
 ## Build status
-Build status : Pending
+![](https://github.com/luizgustavocosta/16bits-quiz/workflows/Node.js%20CI/badge.svg)
 
 ## Code style
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
