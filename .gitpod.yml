@@ -1,0 +1,26 @@
+
+tasks:
+  - name: 16bits-quiz
+    init: |
+      cd /workspace/16bits-quiz
+      nvm install node
+      npm install -g npm@latest
+    command: |
+      cd /workspace/16bits-quiz
+      echo "Running inside the browser - Oh yeah!"
+      npm install
+github:
+  prebuilds:
+    master: true
+    branches: true
+    pullRequests: true
+    pullRequestsFromForks: false
+    addCheck: true
+    addComment: false
+    addBadge: true
+    addLabel: false
+ports:
+  - port: 8888
+    onOpen: open-preview
+  - port: 3000
+    onOpen: ignore    
