@@ -21,6 +21,6 @@ github:
     addLabel: false
 ports:
   - port: 8888
-    onOpen: open-preview
+    onOpen: open-browser
   - port: 3000
     onOpen: ignore    
